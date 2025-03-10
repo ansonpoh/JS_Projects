@@ -1,1 +1,1 @@
-Contains some JS projects 
+Some JS projects created for fun
